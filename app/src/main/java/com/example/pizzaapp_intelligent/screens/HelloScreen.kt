@@ -55,7 +55,7 @@ fun HelloView(navController: NavHostController) {
                     }
                 },
                 colors = TopAppBarDefaults.smallTopAppBarColors(
-                    containerColor = MaterialTheme.colorScheme.primary,
+                    containerColor = Color.Black,
                     titleContentColor = MaterialTheme.colorScheme.onPrimary
                 )
             )
